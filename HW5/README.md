@@ -1,0 +1,1 @@
+I worked by myself on this homework. I want to dig more into how to use dbscan when the notion of distance is blurry. I didn't have enough time to include it in the file, but I'll look for it and share my conclusions after
